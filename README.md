@@ -1,11 +1,10 @@
-# Sorting_Visualiser
-
+<b> Sorting Algorithm Visualiser</b>
 Have a look here : https://ziaualhassain.github.io/Sorting_Visualiser/
 
 <img width="1440" alt="Screenshot 2022-11-19 at 4 05 51 PM" src="https://user-images.githubusercontent.com/62405785/202846522-ac934757-253a-4e19-bdf4-36b48d875450.png">
 
 
-“Sorting Algorithms Visualiser” is a web app where we can compare how actually each sorting algorithm works. Sorting is an important part in programming as well as in reallife as it is easier and faster to locate items in a sorted order rather than unsorted.These algorithms have direct applications in searching, organizing, data structures and more.. <br>
+<b>“Sorting Algorithms Visualiser”</b> is a web app where we can compare how actually each sorting algorithm works. Sorting is an important part in programming as well as in reallife as it is easier and faster to locate items in a sorted order rather than unsorted.These algorithms have direct applications in searching, organizing, data structures and more.. <br>
 
 
 
